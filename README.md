@@ -1,5 +1,7 @@
-# Joomla 4 module version plugin
-This is a Joomla system plugin for module versioning.
+# Joomla 5 module version plugin
+This is a Joomla system plugin for module versioning updated to work with Joomla 5 and works with Advanced module manager (only default params).
+
+Update by jordi.cata@arambee.com / webactualizable.com
 
 In the articles ther is an option to store revisions (versions) of the article when the article is saved.
 
